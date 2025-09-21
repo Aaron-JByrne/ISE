@@ -4,9 +4,8 @@ import java.util.Scanner;
 public class NumberGuessingGame {
    public static void main(String[] args) {
       int guesses = 10;
-      boolean greaterThan;
-      int pivot;
-   
+      boolean greaterThan = false;
+      int pivot = -1;
    
    
       Random r = new Random();
@@ -26,18 +25,24 @@ public class NumberGuessingGame {
             break;
          }
          else if (guess > theNumber) {
-            System.out.printf("Too High!");
+            System.out.printf("Too High!\n");
             greaterThan = true;
+            
          }
          else if (guess < theNumber) {
-            System.out.printf("Too Low!");
+            System.out.printf("Too Low!\n");
             greaterThan = false;
+            
          }
          
-         if ((guess > pivot) != greaterThan) {
-            System.out.printf("Come on, pay attention dude!");
+         if(guesses != 10) {
+            if ((guess > pivot) == greaterThan) {
+               System.out.printf("Come on, pay attention dude!\n");
+            }
          }
-
+         
+          pivot = guess;
+          guesses--;
       }
       
    }
