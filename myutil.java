@@ -9,6 +9,7 @@ public class myutil {
       System.out.printf(" === MyUtil Utility Menu === \n1. Find smallest number among three\n2. Computer average of three numbers\n3. Find middle character(s) of a string\n4. Exit\n");
       int userInput = Integer.parseInt(input.nextLine());
       
+      
       switch (userInput) {
          case 1:
             System.out.printf("Enter your first number: ");
