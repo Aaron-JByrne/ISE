@@ -22,13 +22,13 @@ public class StudentGradeList {
                break;
          
             case(2):
-               int userIndex = Integer.parseInt(input.nextLine());
+               int userIndex = input.nextInt();
                grades.remove(userIndex);
     
                break;
          
             case(3):
-               int updateIndex = Integer.parseInt(input.nextLine());
+               int updateIndex = input.nextInt();
                double updateGrade = input.nextDouble();
                grades.set(updateIndex, updateGrade);
                break;
