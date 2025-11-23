@@ -1,3 +1,5 @@
+import java.lang.reflect.*;
+
 public class inheritence{
    public static void main(String[] args){
       Student ajb = new Student("Aaron", "2006-12-06","25444379", 2025);
@@ -9,6 +11,12 @@ public class inheritence{
       
       chris.displayInfo();
       chris.displayInfo("Staff");
+
+      System.out.println();
+      System.out.println(ajb.getClass().getSimpleName());
+      Method[] methodarray = ajb.getClass().getMethods();
+      System.out.println(ajb.getClass().getMethods());
+
       
    }
 }
