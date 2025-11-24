@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+  </component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4287c13e-6591-4d70-a09d-d573a552caf1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Animalshelter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnimalShelter/Animalshelter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Generics/Generics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Generics/Generics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StudentArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/StudentArray/StudentArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StudentArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StudentArray/StudentArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inheritence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritence.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="341LBpxLtWJWqblltoCdKamwLhB" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application..executor": "Run",
+    "Application.AnimalSoundDemo.executor": "Run",
+    "Application.Animalshelter.executor": "Run",
+    "Application.ButtonMessageApp.executor": "Run",
+    "Application.Generics.executor": "Run",
+    "Application.Mammal.executor": "Run",
+    "Application.Multiples.executor": "Run",
+    "Application.ReadClassFileHeader.executor": "Run",
+    "Application.SerializeExample.executor": "Run",
+    "Application.StudentArray.executor": "Run",
+    "Application.WarriorTest.executor": "Run",
+    "Application.animalshelter (1).executor": "Run",
+    "Application.animalshelter.executor": "Run",
+    "Application.inheritence.executor": "Run",
+    "Application.test.executor": "Run",
+    "C/C++ File.testing.c.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/aaron/Documents/GitHub/ISE",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "project.propCompiler",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "C++"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/StudentArray" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Generics">
+    <configuration type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-25/Contents/Home" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="ISE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnimalSoundDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AnimalSoundDemo" />
+      <module name="ISE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Generics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Generics.Generics" />
+      <module name="ISE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Generics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Multiples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="helping.Multiples" />
+      <module name="ISE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="helping.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SerializeExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="serialization.SerializeExample" />
+      <module name="ISE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="serialization.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="animalshelter" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="animalshelter" />
+      <module name="ISE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="inheritence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inheritence" />
+      <module name="ISE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Generics" />
+        <item itemvalue="Application.SerializeExample" />
+        <item itemvalue="Application.AnimalSoundDemo" />
+        <item itemvalue="Application.inheritence" />
+        <item itemvalue="Application.Multiples" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4287c13e-6591-4d70-a09d-d573a552caf1" name="Changes" comment="" />
+      <created>1760375999369</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1760375999369</updated>
+      <workItem from="1760376001309" duration="504000" />
+      <workItem from="1760616334504" duration="27000" />
+      <workItem from="1760948938274" duration="397000" />
+      <workItem from="1760949348040" duration="38000" />
+      <workItem from="1760949404347" duration="3322000" />
+      <workItem from="1760953866525" duration="810000" />
+      <workItem from="1760954679640" duration="52000" />
+      <workItem from="1760954739190" duration="11480000" />
+      <workItem from="1761225565911" duration="3076000" />
+      <workItem from="1761746221197" duration="4849000" />
+      <workItem from="1761776612248" duration="4000" />
+      <workItem from="1762183060581" duration="70000" />
+      <workItem from="1762784882158" duration="3846000" />
+      <workItem from="1762965728730" duration="9000" />
+      <workItem from="1763043440968" duration="5494000" />
+      <workItem from="1763388140140" duration="846000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/inheritence.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ISE$animalshelter__1_.ic" NAME="animalshelter (1) Coverage Results" MODIFIED="1760953583282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+  </component>
+</project>

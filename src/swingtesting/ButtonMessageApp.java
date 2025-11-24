@@ -78,6 +78,3 @@ public class ButtonMessageApp{
         System.out.println("End of Main method");
     }
 }
-
-class ActionListener implements java.awt.event.ActionListener {
-}
